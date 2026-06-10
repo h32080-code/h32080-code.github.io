@@ -1,6 +1,6 @@
 {
-  "name": "허주희 개인연구 홈페이지",
-  "description": "구글 스콜라와 한국공항공사 관련 항공 기술 및 스마트 공항 연구를 위한 허주희 연구원의 개인 포트폴리오 및 연구 플랫폼",
+  "name": "Huh Ju-hee Glocal Research Portal",
+  "description": "한국공항공사 허주희 글로컬사업본부장의 개인 연구 및 전문 성과 기록 홈페이지",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
